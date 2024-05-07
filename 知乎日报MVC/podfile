@@ -1,0 +1,12 @@
+platform:ios,'9.0'
+
+target '知乎日报MVC' do
+ 
+pod 'AFNetworking'
+pod 'JSONModel'
+pod "SDWebImage","~> 4.0"
+pod 'Masonry' 
+pod 'FMDB'
+pod 'MJRefresh'
+
+end
